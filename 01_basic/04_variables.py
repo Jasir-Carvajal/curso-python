@@ -47,7 +47,7 @@ minombredevariable = "no-recomendado" # todojunto
 
 mi_nombre_de_variable_123 = "ok"
 
-MI_CONSTANTE = 3.14 # UPPER_CASE -> constantes
+MI_CONSTANTE = 3.14 # UPPER_CASE -> constantes convencionalmente en mayúsculas
 
 # Nombres NO válidos de variables (esto generaría errores)
 # 123123_variable = "ko"  # ❌ No puede comenzar con un número

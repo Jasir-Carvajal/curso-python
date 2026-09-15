@@ -19,7 +19,7 @@ age = int(age)
 print(f"Tienes {age} años")
 
 # La función input() también puede devolver múltiples valores
-# Para hacerlo, el usuario debe separar los valores con una coma
+# Para hacerlo, el usuario debe separar los valores con un espacio
 print("Obtener múltiples valores a la vez")
 country, city = input("¿En qué país y ciudad vives?\n").split()
 

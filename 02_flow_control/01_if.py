@@ -140,9 +140,39 @@ print(mensaje)
 # Pide al usuario que introduzca dos números y muestra un mensaje
 # indicando cuál es mayor o si son iguales
 
+# numero1 = int(input("Introduce el primer número: "))
+# numero2 = int(input("Introduce el segundo número: "))
+
+# if numero1 > numero2:
+#   print(f"El número {numero1} es mayor que {numero2}")
+# elif numero2 > numero1:
+#   print(f"El número {numero2} es mayor que {numero1}")
+# else:
+#   print("Los números son iguales")
+
 # Ejercicio 2: Calculadora simple
 # Pide al usuario dos números y una operación (+, -, *, /)
 # Realiza la operación y muestra el resultado (maneja la división entre zero)
+
+# numero1 = int(input("Ingrese el número 1"))
+# numero2 = int(input("Ingrese el número 2"))
+# operador = input("Ingrese el operador")
+
+# if operador == "+":
+#   resultado = numero1 + numero2
+# elif operador == "-":
+#   resultado = numero1 - numero2
+# elif operador == "*":
+#   resultado = numero1 * numero2
+# elif operador == "/":
+#   if numero2 != 0:
+#     resultado = numero1 / numero2
+#   else:
+#     resultado = "Error: División por cero"
+# else:
+#   print("operador no valido")
+
+# print(f"El resultado de {numero1} {operador} {numero2} es: {resultado}")
 
 # Ejercicio 3: Año bisiesto
 # Pide al usuario que introduzca un año y determina si es bisiesto.
